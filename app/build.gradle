@@ -1,12 +1,11 @@
 apply plugin: 'com.android.application'
-apply plugin: 'com.google.gms.google-services'
 
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.codewithshubh.covid19tracker"
+        applicationId "com.example.mrcovidtracker"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
